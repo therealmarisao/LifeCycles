@@ -1,0 +1,40 @@
+requirments- Identify and Refine the problem
+  -define done
+  -$$$
+  -description of solution
+  -WHAT needs to be done not HOW
+
+design-architecture
+  -HOW is the solution implemented
+  -detail/depth
+  -lanuage?
+  -implementation begins
+
+implementation-execute design
+  -code begins
+  -self-documented code
+  -requires most people
+  -creating hardware
+
+testing-find defects
+  -verification
+  -validation
+  -solution work properly
+  -document any defects
+
+release-deploy
+  -for customer
+  -final result
+  -show for approval
+  -release any documentation included with solutions
+
+maintenance-find issues if any
+  -patches
+  -small bugs/ document
+  -enhancement
+
+upgrades/updates-fix major issues
+  -versions of the solution
+  -repeat phases
+  -last step
+
